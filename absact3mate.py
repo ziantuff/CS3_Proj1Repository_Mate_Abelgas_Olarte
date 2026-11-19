@@ -27,3 +27,4 @@ ph.get_reading()
 temp.get_reading()
 
 print("----------------------------")
+print("Zian da goat")
